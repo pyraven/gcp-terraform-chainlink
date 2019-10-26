@@ -8,6 +8,6 @@ https://docs.chain.link/docs/running-a-chainlink-node
 
 https://docs.chain.link/docs/enabling-https-connections
 
-The Ethereum node (set to Mainnet) is still syncing -- about 150GB after 24 hours.. should of used a bigger instance...still unsure if this will work.
+The Ethereum node (set to Mainnet) is still syncing -- about 150GB after 24 hours.. should of used a bigger instance...still unsure if this will work.  Tell Google to send more free credits my way while we wait. I might need them...
 
 You'll need to be authenticated with the right role/project via the GCLOUD CLI to use this template.
